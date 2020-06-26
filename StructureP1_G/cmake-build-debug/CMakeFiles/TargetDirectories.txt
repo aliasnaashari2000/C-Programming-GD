@@ -1,0 +1,3 @@
+C:/Users/aasna/CLionProjects/Structure_G/cmake-build-debug/CMakeFiles/Structure_G.dir
+C:/Users/aasna/CLionProjects/Structure_G/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aasna/CLionProjects/Structure_G/cmake-build-debug/CMakeFiles/rebuild_cache.dir
