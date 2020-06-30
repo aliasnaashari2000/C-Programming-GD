@@ -1,0 +1,3 @@
+C:/Users/aasna/CLionProjects/StructureP4_G/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aasna/CLionProjects/StructureP4_G/cmake-build-debug/CMakeFiles/StructureP4_G.dir
+C:/Users/aasna/CLionProjects/StructureP4_G/cmake-build-debug/CMakeFiles/rebuild_cache.dir
